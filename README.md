@@ -9,25 +9,23 @@
 ## Wie man einen Timer in C# erstellt
 
 ### Anleitung
-Um ein Timer in C# verwenden zu können, muss man folgende Schritte befolgen.
+Um ein Timer in C# verwenden zu können, muss man folgende Schritte befolgen:
 
-Als erstes solte man einen neuen Timer mit diesem Befehl ``Stopwatch stopWatch = new Stopwatch();`` erstellen, denn ohne den kann man die Zeit nicht stoppen.
+Als Erstes sollte man einen neuen Timer mit diesem Befehl ``Stopwatch stopWatch = new Stopwatch();`` erstellen, denn ohne diesen, kann man die Zeit nicht stoppen.
 
 Nun hat man einen neuen Timer erstellt, dieser an sich macht bis jetzt aber noch nichts.
-Um den Timer zu starten kann man jetzt den Befehl ``stopWatch.Start();`` verwenden.
+Um den Timer zu starten, kann man jetzt den Befehl ``stopWatch.Start();`` verwenden.
 
-Wenn man diesen Befehl eingibt wird ab diesem Zeipunkt im Code die Zeit gemessen, um die Zeit am Ende auswerten zu können muss man als nächstes einen Stoppunkt setzten.
+Wenn man diesen Befehl eingibt, wird ab dieser Stelle im Code die Zeit gemessen. Um die Zeit am Ende auswerten zu können, muss man als nächstes einen Stoppunkt setzten.
 Der Befehl um den Timer zu stoppen lautet: ``stopWatch.Stop();``
 
-Das die Daten am Schluss richtig angezeigt werden müssen sie noch konvertiert werden. 
-Zuerst wird die gemessen Zeit in eine Variable eingefügt, 
-kann man mit diesem Befehl ``ts = stopWatch.Elapsed;`` machen .  
-Nun setzt man das ganze noch in das richtige Format:
-``elapsedTime = String.Format("{0:00}:{1:00}:{2:00}.{3:00}",
- ts.Hours, ts.Minutes, ts.Seconds, ts.Milliseconds / 10);``
+Damit die Daten am Schluss richtig angezeigt werden, müssen sie noch konvertiert werden. 
+Zuerst wird die gemessene Zeit in eine Variable eingefügt, dies kann man mit dem Befehl ``ts = stopWatch.Elapsed;`` machen.  
+Nun setzt man das Ganze in das richtige Format:
+``elapsedTime = String.Format("{0:00}:{1:00}:{2:00}.{3:00}", ts.Hours, ts.Minutes, ts.Seconds, ts.Milliseconds / 10);``
 
-Wenn das alles geklappt hat ist man nun bereit für den letzten Schritt, die Ausgabe.
-Um das fertig Ergebniss jetzt ausgeben zu können muss man nur noch diesen Befehl ``Console.Write(elapsedTime);`` benutzen.
+Wenn das alles geklappt hat, ist man nun bereit für den letzten Schritt, die Ausgabe.
+Um das fertige Ergebnis jetzt ausgeben zu können, muss man nur noch diesen Befehl benutzen: ``Console.Write(elapsedTime);`` 
 
 
 
@@ -35,7 +33,7 @@ Um das fertig Ergebniss jetzt ausgeben zu können muss man nur noch diesen Befeh
 
 
 ### Code
-Um das ganze einmal bildlich darzustellen hier ein Beispiel:
+Um das Ganze einmal bildlich darzustellen, hier ein Beispiel:
  ```csharp
  Stopwatch stopWatch = new Stopwatch();
  stopWatch.Start();
@@ -46,7 +44,7 @@ Um das ganze einmal bildlich darzustellen hier ein Beispiel:
                 ts.Milliseconds / 10);
  ```
  
- ### Einbettung in einem Code
+ ### Einbettung in einen Code
 Im folgenden Video sieht man ein Beispiel wo man diesen Timer benutzen könnte.
 
 [![Mein Foto](http://img.youtube.com/vi/i0y-RBSp8R0/0.jpg)](https://youtu.be/i0y-RBSp8R0)
