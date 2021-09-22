@@ -9,7 +9,7 @@
 ## Wie man einen Timer in C# erstellt
 
 ### Anleitung
-Um ein Timer in C# verwenden zu können muss man folgende Schritte befolgen.
+Um ein Timer in C# verwenden zu können, muss man folgende Schritte befolgen.
 
 Als erstes solte man einen neuen Timer mit diesem Befehl ``Stopwatch stopWatch = new Stopwatch();`` erstellen, denn ohne den kann man die Zeit nicht stoppen.
 
