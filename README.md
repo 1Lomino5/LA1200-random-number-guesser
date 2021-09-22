@@ -8,3 +8,6 @@
 
 ### Wie man einen Timer in C# erstellt
 
+``Csharp
+Stopwatch stopWatch = new Stopwatch();
+``
