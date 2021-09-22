@@ -1,4 +1,2 @@
 # LA1200-random-number-guesser
-A random number guesser game
-
-Written in C#
+A random number guesser game written in C#
