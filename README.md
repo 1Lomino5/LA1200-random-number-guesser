@@ -46,15 +46,22 @@ Um das ganze einmal bildlich darzustellen hier ein Beispiel:
                 ts.Milliseconds / 10);
  ```
  
- ### Einbetung in einem Code
+ ### Einbettung in einem Code
 Im folgenden Video sieht man ein Beispiel wo man diesen Timer benutzen könnte.
 
-Video wird hier noch eingefügt
+Video wird hier noch eingefügt.
 
 
 
+[![Mein Foto](http://img.youtube.com/vi/i0y-RBSp8R0/0.jpg)](https://youtu.be/i0y-RBSp8R0)
 
-###
+
+
+## Verifikation
+Mit der obigen Anleitung sollten eigentlich keine Fragen aufkommen, sommit ist das Ziel das die Leser wissen nun wisssen wie man einen Timer erstellt und verwendet nun hoffentlich erfüllt.
+
+## Reflexion
+Dies war mein erstes Projekt welches ich in C# umgesetzt habe. Auf dem Weg zum fertig Produkt gab es immer wieder Probleme welche gelöst werden mussten, doch das Schöne daran ist das Gefühl welches man hat wenn man die Probleme oder Herausforderungen selber lösen konnten
 
 
 
