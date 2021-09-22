@@ -45,7 +45,7 @@ Um das Ganze einmal bildlich darzustellen, hier ein Beispiel:
  ```
  
  ### Einbettung in einen Code
-Im folgenden Video sieht man ein Beispiel wo man diesen Timer benutzen könnte.
+Im folgenden Video sieht man ein Beispiel, wo man diesen Timer benutzen könnte.
 
 [![Mein Foto](http://img.youtube.com/vi/i0y-RBSp8R0/0.jpg)](https://youtu.be/i0y-RBSp8R0)
 Im oben verlinkten Video können Sie ein Beispiel für eine Anwendung des Timers sehen.
