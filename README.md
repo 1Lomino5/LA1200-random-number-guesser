@@ -4,7 +4,7 @@
 
 #### Was ist das Ziel dieses Portfolios ?
 ###### Die Leserin oder der Leser kann am Ende dieses Beitrages einen Timer in C# erstellen und weiss wie man damit die Zeit stoppen kann. 
-
+<br>
 
 #### Wie man einen Timer in C# erstellt
 
