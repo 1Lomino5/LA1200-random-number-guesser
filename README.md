@@ -50,11 +50,14 @@ Im folgenden Video sieht man ein Beispiel, wo man diesen Timer benutzen könnte.
 [![Mein Foto](http://img.youtube.com/vi/i0y-RBSp8R0/0.jpg)](https://youtu.be/i0y-RBSp8R0)
 <br>
 Im oben verlinkten Video, können Sie ein Beispiel für eine Anwendung des Timers sehen.
-Am Ende sieht man die verbrauchte Zeit. Dieser Timer wurde mit der Methode erstellt welche in der Anleitung erklärt wurde.
+<br>
+Am Ende des Videos sieht man die Zeit, welche der Benutzer gebraucht hat, um die Zahl zu erraten. 
+<br>
+Dieser Timer wurde mit der Methode erstellt, welche in der Anleitung erklärt wurde.
 
 
 ## Verifikation
-Mit der obigen Anleitung sollten eigentlich keine Fragen aufkommen, somit ist das Ziel das die Leser nun wisssen wie man einen Timer erstellt und verwendet nun hoffentlich erfüllt.
+Mit der Anleitung sollten die Leser wissen, wie man einen Timer in C# erstellt und verwendet.
 
 ## Reflexion
-Dies war mein erstes Projekt welches ich in C# umgesetzt habe. Auf dem Weg zum fertig Produkt gab es immer wieder Probleme welche gelöst werden mussten, doch das Schöne daran ist das Gefühl welches man hat, wenn man die Probleme oder Herausforderungen selber lösen konnten. Ein Problem auf das ich mehrere Male gestossen bin während dem Programmieren ist die Struktur meines Codes. Da ich noch nicht genau weiss wie man einen Code schön und richtig Strukturiert ist mein VBV (Verbesserungvorschlag) das ich bei meinem nächsten Projekt meinen Code versuche besser darzustellen. Was ich mir als Ziel setzte ist das ich mich noch in diese Richtung informiere werde und meinen Code überarbeite.
+Dies war mein erstes Projekt, welches ich in C# umgesetzt habe. Auf dem Weg zum fertigen Produkt, gab es immer wieder Probleme, welche gelöst werden mussten. Das Schöne daran ist, das Gefühl welches man hat, wenn man die Probleme oder Herausforderungen selber lösen konnte. Ein Problem, auf das ich mehrere Male während des Programmierens gestossen bin, ist die Struktur meines Codes. Da ich noch nicht genau weiss, wie man einen Code schön und richtig Strukturiert. Mein VBV (Verbesserungvorschlag) ist, dass ich bei meinem nächsten Projekt, meinen Code versuche besser darzustellen. Was ich mir als Ziel gesetzt habe ist, dass ich mich in diese Richtung informieren werde und meinen Code überarbeite.
