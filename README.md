@@ -1,4 +1,4 @@
-#  Random Number Gueser
+#  Random Number Guesser
 #### Ein Spiel bei dem man eine zufällige generierte Zahl eraten werden kann, programmiert in C#.
 <br>
 
