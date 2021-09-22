@@ -54,23 +54,12 @@ Video wird hier noch eingefügt.
 
 
 [![Mein Foto](http://img.youtube.com/vi/i0y-RBSp8R0/0.jpg)](https://youtu.be/i0y-RBSp8R0)
-
+Im oben verlinkten Video können Sie ein Beispiel für eine Anwendung des Timers sehen.
+Am Ende sieht man die verbrauchte Zeit. Dieser Timer wurde mit der Methode erstellt welche in der Anleitung erklärt wurde.
 
 
 ## Verifikation
 Mit der obigen Anleitung sollten eigentlich keine Fragen aufkommen, sommit ist das Ziel das die Leser wissen nun wisssen wie man einen Timer erstellt und verwendet nun hoffentlich erfüllt.
 
 ## Reflexion
-Dies war mein erstes Projekt welches ich in C# umgesetzt habe. Auf dem Weg zum fertig Produkt gab es immer wieder Probleme welche gelöst werden mussten, doch das Schöne daran ist das Gefühl welches man hat wenn man die Probleme oder Herausforderungen selber lösen konnten
-
-
-
-
-
-
-
-
-
-
-
- 
+Dies war mein erstes Projekt welches ich in C# umgesetzt habe. Auf dem Weg zum fertig Produkt gab es immer wieder Probleme welche gelöst werden mussten, doch das Schöne daran ist das Gefühl welches man hat wenn man die Probleme oder Herausforderungen selber lösen konnten. Ein Problem auf das ich gestossen bin während dem Programmieren ist die Struktur meines Codes. Da ich noch nicht genau weiss wie man einen Code schön und richtig Strukturiert ist mein VBV (Verbesserungvorschlag) das ich bei meinem nächsten Projekt das besser umsetzten zu versuchen werde und ich mich daher in diese Richtung noch informiere. 
