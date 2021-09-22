@@ -26,7 +26,7 @@ Nun setzt man das ganze noch in das richtige Format:
 ``elapsedTime = String.Format("{0:00}:{1:00}:{2:00}.{3:00}",
  ts.Hours, ts.Minutes, ts.Seconds, ts.Milliseconds / 10);``
 
-Wenn man alles geklappt hat ist man nun bereit für den letzten Schritt, die Ausgabe.
+Wenn das alles geklappt hat ist man nun bereit für den letzten Schritt, die Ausgabe.
 Um das fertig Ergebniss jetzt ausgeben zu können muss man nur noch diesen Befehl ``Console.Write(elapsedTime);`` benutzen.
 
 
@@ -49,17 +49,13 @@ Um das ganze einmal bildlich darzustellen hier ein Beispiel:
  ### Einbettung in einem Code
 Im folgenden Video sieht man ein Beispiel wo man diesen Timer benutzen könnte.
 
-Video wird hier noch eingefügt.
-
-
-
 [![Mein Foto](http://img.youtube.com/vi/i0y-RBSp8R0/0.jpg)](https://youtu.be/i0y-RBSp8R0)
 Im oben verlinkten Video können Sie ein Beispiel für eine Anwendung des Timers sehen.
 Am Ende sieht man die verbrauchte Zeit. Dieser Timer wurde mit der Methode erstellt welche in der Anleitung erklärt wurde.
 
 
 ## Verifikation
-Mit der obigen Anleitung sollten eigentlich keine Fragen aufkommen, sommit ist das Ziel das die Leser wissen nun wisssen wie man einen Timer erstellt und verwendet nun hoffentlich erfüllt.
+Mit der obigen Anleitung sollten eigentlich keine Fragen aufkommen, sommit ist das Ziel das die Leser nun wisssen wie man einen Timer erstellt und verwendet nun hoffentlich erfüllt.
 
 ## Reflexion
-Dies war mein erstes Projekt welches ich in C# umgesetzt habe. Auf dem Weg zum fertig Produkt gab es immer wieder Probleme welche gelöst werden mussten, doch das Schöne daran ist das Gefühl welches man hat wenn man die Probleme oder Herausforderungen selber lösen konnten. Ein Problem auf das ich gestossen bin während dem Programmieren ist die Struktur meines Codes. Da ich noch nicht genau weiss wie man einen Code schön und richtig Strukturiert ist mein VBV (Verbesserungvorschlag) das ich bei meinem nächsten Projekt das besser umsetzten zu versuchen werde und ich mich daher in diese Richtung noch informiere. 
+Dies war mein erstes Projekt welches ich in C# umgesetzt habe. Auf dem Weg zum fertig Produkt gab es immer wieder Probleme welche gelöst werden mussten, doch das Schöne daran ist das Gefühl welches man hat, wenn man die Probleme oder Herausforderungen selber lösen konnten. Ein Problem auf das ich mehrere Male gestossen bin während dem Programmieren ist die Struktur meines Codes. Da ich noch nicht genau weiss wie man einen Code schön und richtig Strukturiert ist mein VBV (Verbesserungvorschlag) das ich bei meinem nächsten Projekt meinen Code versuche besser darzustellen. Was ich mir als Ziel setzte ist das ich mich noch in diese Richtung informiere werde und meinen Code überarbeite.
