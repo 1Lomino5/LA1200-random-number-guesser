@@ -49,7 +49,7 @@ Im folgenden Video sieht man ein Beispiel, wo man diesen Timer benutzen könnte.
 
 [![Mein Foto](http://img.youtube.com/vi/i0y-RBSp8R0/0.jpg)](https://youtu.be/i0y-RBSp8R0)
 <br>
-Im oben verlinkten Video können Sie ein Beispiel für eine Anwendung des Timers sehen.
+Im oben verlinkten Video, können Sie ein Beispiel für eine Anwendung des Timers sehen.
 Am Ende sieht man die verbrauchte Zeit. Dieser Timer wurde mit der Methode erstellt welche in der Anleitung erklärt wurde.
 
 
