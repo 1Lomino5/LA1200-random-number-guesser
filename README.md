@@ -1,5 +1,5 @@
 #  Random Number Guesser
-#### Ein Spiel bei dem man eine zufällige generierte Zahl eraten werden kann, programmiert in C#.
+#### Ein Spiel, bei dem man eine zufällige generierte Zahl eraten werden kann, programmiert in C#.
 <br>
 
 #### Was ist das Ziel dieses Portfolios ?
